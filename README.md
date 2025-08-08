@@ -21,7 +21,7 @@ The goal is to explore real-world data, practice cleaning and analysis, and expe
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure (I will organize the project to this format when completely done)
 
 ```
 .
